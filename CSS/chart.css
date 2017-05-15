@@ -1,0 +1,52 @@
+.chart_main #chart_div{
+	position: absolute;
+	bottom: 10px;
+	width: 95%;
+	height: 75%;	
+}
+
+
+.chart_main #loadScreen{	
+	position:relative;
+	width: 50%;
+	margin: 0 auto;
+	left: -100px;
+}
+
+.chart_main #loadScreen h2{	
+	position: relative;
+	text-align: center;
+
+}
+
+.chart_main #chartForm{
+	position: absolute;
+	float: right;
+	top: 35%;
+	right: 0%;
+	border:1px solid black;
+	width: 250px;
+	height: 190px;
+}
+
+.chart_main #deviceSelect, #timeMinutes, #timeSpan, #submitBtn{
+	position: relative;
+	top: 10px;
+	text-align: left;
+	left: 3px;
+}
+
+.chart_main #timeMinutes{
+	top: 15px;
+}
+
+.chart_main #timeSpan{
+	top: 30px;
+}
+
+.chart_main #submitBtn{
+	top: 40px;
+	float: right;
+	left: -5px;
+}
+

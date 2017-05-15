@@ -1,0 +1,23 @@
+@media (max-width: 960px) 
+{
+	#minImg,#maxImg,#max,#min,#backupImg,#TrashbinImg
+	{
+        display: none;
+    }
+}
+
+@media (max-height: 540px) 
+{
+	#time
+	{
+        display: none;
+    }
+}
+
+@media (max-height: 410px) 
+{
+	#minImg,#maxImg,#max,#min,#backupImg,#TrashbinImg
+	{
+        display: none;
+    }
+}

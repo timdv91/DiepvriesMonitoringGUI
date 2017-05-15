@@ -1,0 +1,12 @@
+.inactiveDB #InactiveDB_h2{
+	position: absolute;
+	top: -45px;
+}
+
+.inactiveDB{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	top: 25px;
+}
+
