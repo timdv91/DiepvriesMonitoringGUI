@@ -38,7 +38,7 @@
 
 <!-- this div class contains the form within the rmDevice box: -->
 <div class="subMenu">
-	<h2>Remove device:</h2>	
+	<h2>Disable device:</h2>	
 	<form class="CfgForm" action method="get">
 		Select device:
 		<select name="tableSelect" id="tableSelect">
